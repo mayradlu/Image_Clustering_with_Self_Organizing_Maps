@@ -51,6 +51,31 @@ This project explores the application of Self-Organizing Maps (SOMs) for cluster
 </p>
 
 
+**Satellite Images of Mexico** Despite the higher complexity and fewer images, the SOM was able to group some classes effectively, although there was more overlap between categories compared to Fashion-MNIST.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c7059e3-91ff-4a7e-b7f7-6b738585b1f0" width="200" />
+  <img src="https://github.com/user-attachments/assets/a5c4315a-5eed-4be5-9a2a-be3ae2df3faa" height=216 width="200" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5e20840-38ec-4763-87a1-b7e20e99a601" width="200" />
+  <img src="https://github.com/user-attachments/assets/b54189bf-9837-42ff-a10e-bc4595373247" height=220 width="200" />
+</p>
+
+
+
+**Custom Images** The dataset's simplicity and smaller size allowed for effective clustering. However, the "Shoe" class showed some dispersion, likely due to the diversity of shoes in the images.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08e44df7-1e0c-4460-bcc3-53d09e317554" width="200" />
+  <img src="https://github.com/user-attachments/assets/b2b8347e-3efe-4b2c-8548-22c6d3f895ba" height=216 width="200" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e6c2222-1e26-4f61-992e-7052f786d8b9" width="200" />
+  <img src="https://github.com/user-attachments/assets/2e64d8c9-9a1e-458c-93a2-1e9b36ddab85" height=220 width="200" />
+</p>
+
+
+
+
 
 
 
